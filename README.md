@@ -1,2 +1,2 @@
-# Android_LanguageDemo
+# AndroidLanguageDemo
 国际化实现
